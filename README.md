@@ -19,3 +19,5 @@ $ `brew install caskroom/cask/brew-cask`
 
 Then install Sonarr-Menu,  
 $ `brew cask install sonarr-menu`
+
+![Example on OSX 10.11](http://i.imgur.com/0MmWt8M.jpg?1)
